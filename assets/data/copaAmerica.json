@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "category": "Copa América",
+      "question": "¿En qué año ganó Chile su primera Copa América?",
+      "options": ["2015", "2016", "1991", "1979"],
+      "answer": "2015",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 2,
+      "category": "Copa América",
+      "question": "¿Qué selección fue el rival de Chile en la final de la Copa América 2015?",
+      "options": ["Argentina", "Uruguay", "Brasil", "Paraguay"],
+      "answer": "Argentina",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 3,
+      "category": "Copa América",
+      "question": "¿Dónde se disputó la final de la Copa América 2015 ganada por Chile?",
+      "options": ["Santiago", "Viña del Mar", "Concepción", "La Serena"],
+      "answer": "Santiago",
+      "difficulty": "media"
+    },
+    {
+      "id": 4,
+      "category": "Copa América",
+      "question": "¿Qué jugador chileno anotó el penal decisivo en la final de la Copa América 2015?",
+      "options": ["Alexis Sánchez", "Arturo Vidal", "Eduardo Vargas", "Charles Aránguiz"],
+      "answer": "Alexis Sánchez",
+      "difficulty": "media"
+    },
+    {
+      "id": 5,
+      "category": "Copa América",
+      "question": "¿En qué país se disputó la Copa América 2016, donde Chile obtuvo su segundo título?",
+      "options": ["Estados Unidos", "Chile", "Brasil", "Argentina"],
+      "answer": "Estados Unidos",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 6,
+      "category": "Copa América",
+      "question": "¿Cuál fue el marcador final (tras penales) en la final de la Copa América Centenario 2016?",
+      "options": ["4-2", "3-0", "5-4", "4-1"],
+      "answer": "4-2",
+      "difficulty": "media"
+    },
+    {
+      "id": 7,
+      "category": "Copa América",
+      "question": "¿Quién fue el portero titular de Chile en las Copas América 2015 y 2016?",
+      "options": ["Claudio Bravo", "Johnny Herrera", "Miguel Pinto", "Christopher Toselli"],
+      "answer": "Claudio Bravo",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 8,
+      "category": "Copa América",
+      "question": "¿Qué jugador chileno fue máximo goleador en la Copa América 2015?",
+      "options": ["Eduardo Vargas", "Alexis Sánchez", "Jorge Valdivia", "Arturo Vidal"],
+      "answer": "Eduardo Vargas",
+      "difficulty": "media"
+    },
+    {
+      "id": 9,
+      "category": "Copa América",
+      "question": "¿Cuántas veces ha llegado Chile a la final de Copa América hasta 2024?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 10,
+      "category": "Copa América",
+      "question": "¿A qué equipo eliminó Chile en semifinales de la Copa América 2015?",
+      "options": ["Perú", "Uruguay", "Colombia", "Ecuador"],
+      "answer": "Perú",
+      "difficulty": "media"
+    },
+    {
+      "id": 11,
+      "category": "Copa América",
+      "question": "¿Qué entrenador dirigía a Chile en las Copas América 2015 y 2016?",
+      "options": ["Jorge Sampaoli", "Juan Antonio Pizzi", "Marcelo Bielsa", "Reinaldo Rueda"],
+      "answer": "Jorge Sampaoli",
+      "difficulty": "difícil"
+    },
+    {
+      "id": 12,
+      "category": "Copa América",
+      "question": "¿Cuál fue la particularidad de la Copa América Centenario 2016?",
+      "options": [
+        "Se jugó en Estados Unidos",
+        "Participaron selecciones invitadas de Europa",
+        "Fue la primera con VAR",
+        "Chile no clasificó"
+      ],
+      "answer": "Se jugó en Estados Unidos",
+      "difficulty": "media"
+    },
+    {
+      "id": 13,
+      "category": "Copa América",
+      "question": "¿Cuántos títulos de Copa América tiene Chile hasta 2024?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 14,
+      "category": "Copa América",
+      "question": "¿Qué jugador chileno fue capitán en ambas finales ganadas por Chile?",
+      "options": ["Claudio Bravo", "Gary Medel", "Arturo Vidal", "Alexis Sánchez"],
+      "answer": "Claudio Bravo",
+      "difficulty": "fácil"
+    },
+    {
+      "id": 15,
+      "category": "Copa América",
+      "question": "¿Contra qué selección perdió Chile en semifinales de la Copa América 2019?",
+      "options": ["Perú", "Brasil", "Argentina", "Uruguay"],
+      "answer": "Perú",
+      "difficulty": "media"
+    }
+  ]
+  
